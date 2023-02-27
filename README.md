@@ -2,11 +2,11 @@
 # Hi there 👋
 
 I am Lucas Pellier, a **22** years old student at `42` School.
-
 I've entered the school in October 2019 and have since then completed the **Common Core**.
 
-I am currently looking for a 6-months internship in **Web Development**.
+**_https://lpellier.fr/_**
 
+I am currently looking for a 6-months internship in **Web Development**.
 My most notable web projects are `ft_transcendence` and `portfoliOS`. They were both built with **React** in **Typescript**.
 
 I have a passion for **programming** (especially web development) and **videogames**.
